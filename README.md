@@ -3,7 +3,7 @@
 ### Zitong Wu, Oct. 27, 2020
 
 <br >  
-Models and solves a sudoku puzzle as as a propositional logic satisfiability problem. See [IMPLEMENTATION](https://github.com/zitongwu0301/Sudoku_Solver/blob/master/IMPLEMENTATION.md) for more information.
+Models and solves a sudoku puzzle as as a propositional logic satisfiability problem. See <a href="https://github.com/zitongwu0301/Sudoku_Solver/blob/master/IMPLEMENTATION.md">IMPLEMENATATION</a> for more information.
 
 Rule: the same single integer do not appear twice in the same row, column, diagonal, or any of the nine 9×9 playing board.
 
