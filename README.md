@@ -1,4 +1,4 @@
-# WELCOME TO SUDOKU!
+# SUDOKU
 
 #### Zitong Wu, Oct. 27, 2020
 
