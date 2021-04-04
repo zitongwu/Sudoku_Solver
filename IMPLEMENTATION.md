@@ -1,4 +1,5 @@
-#### Zitong Wu, Oct. 27, 2020
+#### Author: Zitong Wu
+#### Date: Oct. 27, 2020
 <br >  
 
 # IMPLEMENTATION
