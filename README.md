@@ -1,6 +1,6 @@
 # SUDOKU
 
-#### Zitong Wu, Oct. 27, 2020
+### Zitong Wu, Oct. 27, 2020
 
 <br >  
 Models and solves a sudoku puzzle as as a propositional logic satisfiability problem. See <a href="https://github.com/zitongwu0301/Sudoku_Solver/blob/master/IMPLEMENTATION.md">IMPLEMENATATION.md</a> for more information.
