@@ -22,9 +22,9 @@ Rule: the same single integer do not appear twice in the same row, column, diago
 Puzzle 1 solution:
 
 <img src="images/puzzle1_unsolved.png" width = 200
- height="250"/> :point_right: <img src="images/puzzle1.png" width = "200" height="250"/> 
+ height="250"/> <img src="images/puzzle1.png" width = "200" height="250"/> 
 
 Puzzle 2 solution:
 
-<img src="images/puzzle2_unsolved.png"  width = 200 height="250"/> :point_right: <img src="images/puzzle2.png"  width = 200 height="250"/> 
+<img src="images/puzzle2_unsolved.png"  width = 200 height="250"/> <img src="images/puzzle2.png"  width = 200 height="250"/> 
 
